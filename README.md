@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OluwaferanmiAdenuga
+- 👀 I’m interested in Data Analysis and Data Science
+- 🌱 I’m currently learning how to write simple codes to help my career
+- 💞️ I’m looking to intern for Data analysis or Data Science courses
+- 📫 I can be reached @greatite17@gmail.com
